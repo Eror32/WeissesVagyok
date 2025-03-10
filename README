@@ -1,0 +1,2 @@
+A feltöltött fájlok csakis a dok.php működéséért felelősek, egyik sem helyettesíti a szükséges index fájlt. 
+A nyers fájlok (kicsomagolt vizsgaremek, vagy unzipped mappa tartalma) kerüljenek a WeissesVagyok index.php fájllal egy mappába!
